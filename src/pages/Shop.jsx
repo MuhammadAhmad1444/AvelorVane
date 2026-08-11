@@ -157,8 +157,8 @@ export default function Shop() {
               <Link to="/contact" className="btn-primary">
                 <Mail size={14} /> Send an Enquiry
               </Link>
-              <a href="mailto:info@marlowbenton.shop" className="btn-outline">
-                info@marlowbenton.shop
+              <a href="mailto:info@avelorvane.store" className="btn-outline">
+                info@avelorvane.store
               </a>
             </div>
           </div>

@@ -17,7 +17,7 @@ export default function TermsOfService() {
         <li><strong>Company Name:</strong> Avelor Vane Ltd</li>
         <li><strong>Company Number:</strong> 17393505</li>
         <li><strong>Registered Office:</strong> 60 Tottenham Court Road, Office 1780, Fitzrovia, London, W1T 2EW</li>
-        <li><strong>Email:</strong> info@marlowbenton.shop</li>
+        <li><strong>Email:</strong> info@avelorvane.store</li>
         <li><strong>Telephone:</strong> +44 7462 230769</li>
       </ul>
 
@@ -83,7 +83,7 @@ export default function TermsOfService() {
       <p>
         Under the Consumer Rights Act 2015, goods must be of satisfactory quality, fit for purpose, and as
         described. If your order does not meet these standards, you are entitled to a repair, replacement,
-        or refund. Please contact us at <a href="mailto:info@marlowbenton.shop">info@marlowbenton.shop</a>.
+        or refund. Please contact us at <a href="mailto:info@avelorvane.store">info@avelorvane.store</a>.
       </p>
 
       <h2>10. Intellectual Property</h2>
@@ -127,7 +127,7 @@ export default function TermsOfService() {
       <h2>15. Contact</h2>
       <p>
         For any queries regarding these Terms of Service, please contact us at{' '}
-        <a href="mailto:info@marlowbenton.shop">info@marlowbenton.shop</a> or in writing to our registered office.
+        <a href="mailto:info@avelorvane.store">info@avelorvane.store</a> or in writing to our registered office.
       </p>
     </LegalPage>
   )

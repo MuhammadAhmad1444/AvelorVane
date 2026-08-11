@@ -20,7 +20,7 @@ const corporate = [
   ['Registered Office', '60 Tottenham Court Road, Office 1780, Fitzrovia, London, W1T 2EW'],
   ['Company Number',    '17393505'],
   ['Director',          'Syed Muhammad Huzaifa Bukhari'],
-  ['Email',             'info@marlowbenton.shop'],
+  ['Email',             'info@avelorvane.store'],
   ['Telephone',         '+44 7462 230769'],
 ]
 

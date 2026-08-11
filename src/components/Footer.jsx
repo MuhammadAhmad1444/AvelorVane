@@ -5,7 +5,7 @@ const COMPANY = {
   name:    'Avelor Vane Ltd',
   number:  '17393505',
   address: '60 Tottenham Court Road, Office 1780, Fitzrovia, London, W1T 2EW',
-  email:   'info@marlowbenton.shop',
+  email:   'info@avelorvane.store',
   phone:   '+44 7462 230769',
 }
 

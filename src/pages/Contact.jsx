@@ -18,8 +18,8 @@ const details = [
     icon: Mail,
     title: 'Email',
     content: (
-      <a href="mailto:info@marlowbenton.shop" className="font-sans text-sm text-gold hover:underline mt-1.5 block">
-        info@marlowbenton.shop
+      <a href="mailto:info@avelorvane.store" className="font-sans text-sm text-gold hover:underline mt-1.5 block">
+        info@avelorvane.store
       </a>
     ),
   },

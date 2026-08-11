@@ -116,7 +116,7 @@ export default function CookiePolicy() {
       <h2>7. Contact Us</h2>
       <p>
         If you have any questions about our use of cookies, please contact us at{' '}
-        <a href="mailto:info@marlowbenton.shop">info@marlowbenton.shop</a> or write to:
+        <a href="mailto:info@avelorvane.store">info@avelorvane.store</a> or write to:
       </p>
       <ul>
         <li>Avelor Vane Ltd, 60 Tottenham Court Road, Office 1780, Fitzrovia, London, W1T 2EW</li>
