@@ -8,7 +8,7 @@ const details = [
     title: 'Registered Office',
     content: (
       <address className="not-italic font-sans text-sm text-warm leading-relaxed mt-1.5">
-        Office 1460, 60 Tottenham Court Road<br />
+        60 Tottenham Court Road, Office 1780<br />
         Fitzrovia, London, W1T 2EW<br />
         United Kingdom
       </address>
@@ -18,8 +18,8 @@ const details = [
     icon: Mail,
     title: 'Email',
     content: (
-      <a href="mailto:info@meridioncrest.online" className="font-sans text-sm text-gold hover:underline mt-1.5 block">
-        info@meridioncrest.online
+      <a href="mailto:info@avelorvane.com" className="font-sans text-sm text-gold hover:underline mt-1.5 block">
+        info@avelorvane.com
       </a>
     ),
   },
@@ -27,8 +27,8 @@ const details = [
     icon: Phone,
     title: 'Telephone',
     content: (
-      <a href="tel:+447882732613" className="font-sans text-sm text-warm hover:text-cream transition-colors duration-200 mt-1.5 block">
-        +44 7882 732613
+      <a href="tel:+447462230769" className="font-sans text-sm text-warm hover:text-cream transition-colors duration-200 mt-1.5 block">
+        +44 7462 230769
       </a>
     ),
   },

@@ -51,7 +51,7 @@ export default function Home() {
           <div className="max-w-[580px]">
 
             <div className="label mb-8 anim-fade-up" style={{ animationDelay: '0ms' }}>
-              London · Est. 2024 · UK Registered
+              London · United Kingdom · UK Registered
             </div>
 
             <h1
@@ -175,13 +175,13 @@ export default function Home() {
               </p>
               <div className="w-10 h-px bg-gold mt-10 mb-10" />
               <Link to="/about" className="btn-primary">
-                About Meridion Crest <ArrowRight size={15} />
+                About Avelor Vane <ArrowRight size={15} />
               </Link>
             </div>
 
             <div>
               <p className="font-sans text-sm text-warm leading-[1.9] mb-10">
-                Meridion Crest is a London-based private limited company at the intersection of enterprise technology and consumer commerce. Founded on principles of technical excellence and commercial transparency, we operate in full compliance with UK corporate law and GDPR.
+                Avelor Vane is a London-based private limited company at the intersection of enterprise technology and consumer commerce. Founded on principles of technical excellence and commercial transparency, we operate in full compliance with UK corporate law and GDPR.
               </p>
               <div className="grid grid-cols-2 gap-5">
                 {trustItems.map(({ icon: Icon, label, desc }) => (
