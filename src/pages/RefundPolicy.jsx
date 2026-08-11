@@ -23,7 +23,7 @@ export default function RefundPolicy() {
       <ul>
         <li>
           <strong>Email:</strong> Send a clear statement of your cancellation to{' '}
-          <a href="mailto:info@avelorvane.com">info@avelorvane.com</a>, including your order number,
+          <a href="mailto:info@marlowbenton.shop">info@marlowbenton.shop</a>, including your order number,
           name, and address
         </li>
         <li>
@@ -98,7 +98,7 @@ export default function RefundPolicy() {
       <h2>8. Contact Us</h2>
       <p>
         If you have any questions about returns or refunds, please contact us at{' '}
-        <a href="mailto:info@avelorvane.com">info@avelorvane.com</a> or call us on{' '}
+        <a href="mailto:info@marlowbenton.shop">info@marlowbenton.shop</a> or call us on{' '}
         <a href="tel:+447462230769">+44 7462 230769</a>.
       </p>
     </LegalPage>
